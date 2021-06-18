@@ -1,0 +1,12 @@
+------------------------------------
+PART2
+------------------------------------
+First of all, use terminal to get into the source directory called src
+
+Make sure that we are in the src directory and data files are in the src directory as well
+We enter the command below to run the python file 
+
+python3 main.py
+
+Then the program will run
+

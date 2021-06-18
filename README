@@ -1,0 +1,23 @@
+
+Vehicle Routing
+Every day, a delivery company needs to deliver goods to many different customers. The deliveries are achieved by
+dispatching a fleet of vehicles from a centralised storage warehouse. The goal of this problem is to design a route for
+each vehicle so that all of the customers are served by exactly one vehicle and the travel distance of the vehicles is
+minimised. Additional problem complexity comes from the fact that the vehicles have a fixed storage capacity and
+the customers have different demands.
+
+Used nearest neighbour heuristic and saving heuristic
+
+
+
+First of all, use terminal to get into the source directory called src
+
+Make sure that we are in the src directory and data files are in the src directory as well
+We enter the command below to run the python file 
+
+python3 main.py 
+or
+python main.py 
+
+Then the program will run
+

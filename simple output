@@ -1,0 +1,4 @@
+patrickzhang@PatrickdeMBP src % python3 main.py
+Best VRP Distance: 787.8082774366646
+Nearest Neighbour VRP Heuristic Distance: 1146.399631725379
+Saving VRP Heuristic Distance: 843.6881693466269
